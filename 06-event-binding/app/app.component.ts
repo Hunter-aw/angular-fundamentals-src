@@ -10,7 +10,7 @@ import { Component } from '@angular/core';
       </button>
       <input 
         type="text" 
-        [value]="name"
+        [/]="name"
         (input)="handleInput($event)"
         (blur)="handleBlur($event)">
       <div>{{ name }}</div>
