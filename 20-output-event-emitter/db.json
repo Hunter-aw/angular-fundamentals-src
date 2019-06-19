@@ -22,11 +22,11 @@
       "baggage": ""
     },
     {
+      "fullname": "Louisah Phernando",
       "id": 4,
-      "fullname": "Louise",
       "checkedIn": true,
-      "checkInDate": 1488412800000,
-      "baggage": ""
+      "baggage": "",
+      "checkInDate": 1488412800000
     },
     {
       "id": 5,
